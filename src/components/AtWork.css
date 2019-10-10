@@ -1,0 +1,20 @@
+.AtWork .status .status-text {
+    color: #999;
+    margin: 0;
+  }
+  
+  .AtWork  .status-online ,
+  .AtWork .status-offline{
+    width: 500px;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  .AtWork .status-online {
+   background-image: url('https://i.pinimg.com/originals/84/b1/06/84b1065e798f61aa80b8670a4b6fbb4d.png');
+  }
+  
+  .AtWork .status-offline {
+    background-image: url('https://ih1.redbubble.net/image.377830181.6034/flat,550x550,075,f.u1.jpg') ;
+  }
