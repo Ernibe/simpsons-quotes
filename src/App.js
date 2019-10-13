@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <QuoteList/>
+      <QuoteCard/>
       <Lamp/>
       <Lamp on/>
       <AtWork />
